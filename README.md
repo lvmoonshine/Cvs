@@ -1,6 +1,17 @@
 # Cvs
+## Анализ данных на Python
  Project | Description | 
 | :-------| :-----------|
-| [**Project of juices' sales**](https://github.com/lvmoonshine/Cvs/blob/main/notebooks/Rybin_Sergey_hw02_pandas.ipynb) | Перед нами стоит задача разработать неценовую промо-стратегию для повышения объема продаж соков «Добрый», «Моя Семья» и Rich в магазинах «Пятерочка» на 20% до конца 2022 года.|
-| [**Finmodel of jucies' sales**](https://github.com/didizzy/Projects_for_cv/blob/main/Chagellenge_projects/pr_1_%D1%84%D0%B8%D0%BD%D0%BC%D0%BE%D0%B4.xlsx) |Нужно разработать финансовую модель продажи соков и рассчитать будущие затраты.|
-| [**Project of Sveza**](https://github.com/didizzy/Projects_for_cv/blob/main/Chagellenge_projects/pr_2.pdf) | Необходимо оценить целесообразность инвестиций компании в открытие регионального офиса продаж и склада на рынке Персидского Залива до 2027 года.|
+| [**hm01-numpy**](https://github.com/lvmoonshine/Cvs/blob/639792b22334a92a95a2f3c9a9b440699bedd86b/andan-fcs/hw01-numpy.ipynb) | Основы numpy, работаем с матрицами.|
+| [**hm02-pandas**](https://github.com/lvmoonshine/Cvs/blob/639792b22334a92a95a2f3c9a9b440699bedd86b/andan-fcs/hw02_pandas.ipynb) |Основы pandas, работаем с датасетом оценок студентов из разных групп.|
+| [**hm03-EDA**](https://github.com/lvmoonshine/Cvs/blob/639792b22334a92a95a2f3c9a9b440699bedd86b/andan-fcs/hw03-EDA.ipynb) |Визуализация решающих поверхностей в kNN (встроенный в sklearn набор данных wine). Приминяем метод ближайших соседей при моделировании движения робота. Решаем задачу предсказания цены бриллианта в зависимости от его характеристик (стандартный статистический датасет о бриллиантах).|
+| [**hm04-sklearn-knn-linreg**](https://github.com/lvmoonshine/Cvs/blob/a538f5d2bb1b8a67b2f6322010457c629e9faa2e/andan-fcs/hw04-sklearn-knn-linreg.ipynb) |Задача кредитного скоринга (оценка надёжности клиента). Предоставляются данные о 1000 клиентов, про которых известно около 20 признаков и положительная или отрицательная оценка в качестве кредитуемого. Подготавливаем, исследуем (в том числе с помощью средств визуализации) и пробуем предложить формулу для условной оценки надёжности клиентов исходя из предоставленных данных.|
+## Основы Data science 
+Project | Description | 
+| :-------| :-----------|
+| [**hw02-pandas-eda.ipynb**](https://github.com/lvmoonshine/Cvs/blob/a538f5d2bb1b8a67b2f6322010457c629e9faa2e/andan-fes/hw02-pandas-eda.ipynb) |Первая часть задания: работаем с ценами на акции, расчитываем риск и доходность, делаем визуализацию. Вторая часть проекта: работаем с чеками и покупками, смотрим на корреляцию меду покупками |
+| [**hw03-ml.ipynb**](https://github.com/lvmoonshine/Cvs/blob/fa127c2907b2f51e739b3ccf8a0d45167123c8b2/andan-fes/hw03-ml.ipynb) | Строим предсказательную модель, определяющую пол клиента по его банковским транзакциям. В роли индикатора качества модели используем кривую ROC_AUC. Настраиваем гиперпараметры логистической регрессии.|
+## Проекты Яндекс Практикум
+Project | Description | 
+| :-------| :-----------|
+| [**hw02-pandas-eda.ipynb**](https://github.com/lvmoonshine/Cvs/blob/a538f5d2bb1b8a67b2f6322010457c629e9faa2e/andan-fes/hw02-pandas-eda.ipynb) |Первая часть задания: работаем с ценами на акции, расчитываем риск и доходность, делаем визуализацию. Вторая часть проекта: работаем с чеками и покупками, смотрим на корреляцию меду покупками |
